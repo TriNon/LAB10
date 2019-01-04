@@ -1,0 +1,13 @@
+C:\Users\ensody\Desktop\sync\proj\Lab_10\GenericIdentityandPrincipal\bin\Debug\GenericIdentityandPrincipal.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\GenericIdentityandPrincipal\bin\Debug\GenericIdentityandPrincipal.pdb
+C:\Users\ensody\Desktop\sync\proj\Lab_10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.csprojAssemblyReference.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\ensody\Desktop\sync\proj\Lab_10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.exe
+C:\Users\ensody\Desktop\sync\proj\Lab_10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.pdb
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\bin\Debug\GenericIdentityandPrincipal.exe.config
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\bin\Debug\GenericIdentityandPrincipal.exe
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\bin\Debug\GenericIdentityandPrincipal.pdb
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.csprojAssemblyReference.cache
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.csproj.CoreCompileInputs.cache
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.exe
+C:\Users\OnMyOwn\Desktop\lab10\GenericIdentityandPrincipal\obj\Debug\GenericIdentityandPrincipal.pdb
